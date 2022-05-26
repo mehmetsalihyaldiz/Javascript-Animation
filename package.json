@@ -1,0 +1,9 @@
+{
+  "name": "Javascript-Animation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mehmetsalihyaldiz/Javascript-Animation.git",
+  "author": "Mehmet Salih YALDIZ <83459326+mehmetsalihyaldiz@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "module"
+}
